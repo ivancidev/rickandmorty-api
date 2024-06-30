@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(26, 56, 126);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  
+}
