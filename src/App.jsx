@@ -1,5 +1,5 @@
 import React from "react";
-import "./style/card.css";
+import "./styles/card.css";
 import useFetchGet from "./hooks/useFetch";
 import Card from "./components/Card";
 
