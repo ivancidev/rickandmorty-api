@@ -35,6 +35,13 @@ Este proyecto es una implementación de una API de "Rick and Morty" que utiliza 
     ```sh
     npm install
     ```
+    
+## Configuración
+
+1. Crea un archivo `.env` en la raíz del proyecto y añade la siguiente línea:
+    ```sh
+    VITE_URL_RICKMORT='https://rickandmortyapi.com/api/character'
+    ```
 
 ## Uso
 
